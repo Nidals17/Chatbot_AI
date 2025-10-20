@@ -6,7 +6,7 @@ It can switch seamlessly between document-based answers and open-domain reasonin
 
 ## 🎬 Demo Video  
 **Watch the app in action!**  
-[![Demo Video](https://img.shields.io/badge/🎥)](https://drive.google.com/file/d/1gdHzO-lBwIDtDN4ioaMxsV0LVeTstewi/view?usp=drive_link)
+[![Demo Video](https://img.shields.io/badge/Demo%20Video-🎥-red)](https://drive.google.com/file/d/1gdHzO-lBwIDtDN4ioaMxsV0LVeTstewi/view?usp=drive_link)
 
 ---
 
@@ -160,20 +160,21 @@ chunk_overlap = 100
 
 Key libraries used in the project:
 
-fastapi==0.115.0
-uvicorn==0.30.0
-streamlit==1.38.0
-httpx==0.27.0
-pydantic==2.7.0
-langchain==0.2.7
-chromadb==0.4.24
-sentence-transformers==2.2.2
-google-generativeai==0.5.4
-openai==1.34.0
+- fastapi==0.115.0
+- uvicorn==0.30.0
+- streamlit==1.38.0
+- httpx==0.27.0
+- pydantic==2.7.0
+- langchain==0.2.7
+- chromadb==0.4.24
+- sentence-transformers==2.2.2
+- google-generativeai==0.5.4
+- openai==1.34.0
 
 ## 🧪 API Endpoints
 
 POST /query_llm
+
 Query any supported model (DeepSeek / Gemini / OpenAI) with or without RAG context.
 
 ## ⚡ Performance Tips
