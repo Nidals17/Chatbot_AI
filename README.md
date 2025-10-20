@@ -6,7 +6,7 @@ It can switch seamlessly between document-based answers and open-domain reasonin
 
 ## 🎬 Demo Video  
 **Watch the app in action!**  
-[![Demo Video](https://img.shields.io/badge/🎥_Watch_Demo-Coming_Soon-blue?style=for-the-badge)](https://drive.google.com/file/d/1ZYrgKLTNqG1Q0HZ8PxbxSXSU1REcEBKi/view?usp=drive_link)
+[![Demo Video](https://img.shields.io/badge/🎥)](https://drive.google.com/file/d/1gdHzO-lBwIDtDN4ioaMxsV0LVeTstewi/view?usp=drive_link)
 
 ---
 
