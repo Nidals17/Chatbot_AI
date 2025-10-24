@@ -1,4 +1,3 @@
-# frontend/pages/Database_Manager.py
 import streamlit as st
 import os
 import sys

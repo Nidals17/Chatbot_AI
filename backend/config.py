@@ -25,9 +25,6 @@ class Settings(BaseSettings):
     log_level: str = "INFO"
     enable_debug: bool = False
 
-    class Config:
-        env_file = ".env"
-        env_file_encoding = "utf-8"
 
 
 # Create a single instance to import everywhere
